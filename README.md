@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @victor-balogun
-- 📫 How to reach me www.linkedin.com/in/victor-balogun
+- 👋 Hi, I’m Victor
+- 📫 Reach me www.linkedin.com/in/victor-balogun
 
 <!---
 victor-balogun/victor-balogun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
