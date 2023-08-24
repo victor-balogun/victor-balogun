@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Victor
+- Fullstack Developer 🚀 | TypeScript, React, Node.js Enthusiast 💻 
+- Open to Collaborate on Exciting Projects 👨‍💻🤝
 - 📫 Reach me www.linkedin.com/in/victor-balogun
 
 <!---
